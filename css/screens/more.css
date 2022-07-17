@@ -31,3 +31,20 @@
 .more-suggestions__icon span{
     color:rgba(0,0,0,0.4);
 }
+.more-info{
+    display: flex;
+    align-items: center;
+}
+.more-info__exclamation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-top:8px;
+    font-size: 15px;
+    color: red;
+width:13px;
+height: 13px;
+border-radius: 50%;
+border: 1px solid red;
+}
